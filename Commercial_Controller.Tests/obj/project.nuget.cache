@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPU9R95pYMzpfSYvODdXpdaEiwP1HkC7sR48DV2lLZcLYq2rpdC1MTH85YObLy8yMR7DVcbxoCB7P6ZiT80ztg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Codeboxx\\Odyssey\\RocketElevatorsCsharp\\Rocket-Elevators-Csharp-Controller\\Commercial_Controller.Tests\\Commercial_Controller.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 16.7.1)' for 'net6.0'.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'MSTest.TestAdapter (>= 2.1.1)' for 'net6.0'.",
+      "libraryId": "MSTest.TestAdapter",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'MSTest.TestFramework (>= 2.1.1)' for 'net6.0'.",
+      "libraryId": "MSTest.TestFramework",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'coverlet.collector (>= 1.3.0)' for 'net6.0'.",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
